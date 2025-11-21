@@ -1,0 +1,1 @@
+Amplify skeleton. Use 'amplify init' in Codespaces to populate.

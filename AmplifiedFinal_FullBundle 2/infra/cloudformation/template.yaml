@@ -1,0 +1,5 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Amplified Final skeleton - add real resources before use
+Resources:
+  PlaceholderBucket:
+    Type: AWS::S3::Bucket
